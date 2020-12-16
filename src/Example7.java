@@ -5,7 +5,7 @@ import java.math.BigInteger;
 public class Example7 {
 
     public static void main(String[] args) {
-        final int replications = 10000; //Zvolit nie vela replikacii pretoze potom pretecie integer pri lowercots
+        final int replications = 1; //Zvolit nie vela replikacii pretoze potom pretecie integer pri lowercots
         TriangularRNG demandGen = new TriangularRNG(1000.0, 4000.0, 8500.0);
 
         int bestCount = 0;
