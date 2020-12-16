@@ -18,8 +18,8 @@ public class Example2 {
         TriangularRNG costA = new TriangularRNG(1.0, 1.75,2.5);
         TriangularRNG costB = new TriangularRNG(0.7, 1.2,1.7);
 
-        UniformDiscreteRNG demandA = new UniformDiscreteRNG(40, 80);
-        UniformDiscreteRNG demandB = new UniformDiscreteRNG(66, 155);
+        UniformDiscreteRNG demandA = new UniformDiscreteRNG(40, 79);
+        UniformDiscreteRNG demandB = new UniformDiscreteRNG(66, 154);
 
         double profitA = 0;
         double profitB = 0;
