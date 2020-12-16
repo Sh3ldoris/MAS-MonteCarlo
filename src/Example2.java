@@ -4,7 +4,7 @@ import OSPRNG.UniformDiscreteRNG;
 
 import java.util.Random;
 
-public class TestExample2 {
+public class Example2 {
 
     public static void main(String[] args) {
         final int replication = 1000000;
